@@ -4,6 +4,10 @@
 
 [Шпаргалка от скилбокса][skillbox]
 
+[Диалект гитхаба][GitHub Flavored Markdown Spec]
+
+[Расширенный диалект][CommonMark Spec]
+
 \ - Экранирование символа
 
 <p>\* - Внутри блока не экранируется</p>
@@ -20,7 +24,7 @@
 
     *Курсив*
 
-`````````````` markdown
+~~~~~~~~~~~~~~ markdown ~~~~~~~~~~
 *Курсив*
 **Полужирный**
 ***Полужирный курсив***
@@ -35,7 +39,7 @@
 
 # Заголовок
 ## заголовок
-``````````````
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ````````````````````````````````````` html
 <!doctype html>
 <html>
@@ -160,3 +164,39 @@ AT&T
 [wiki]: https://ru.wikipedia.org/wiki/Markdown
 [daring fireball]: https://daringfireball.net/projects/markdown/syntax
 [skillbox]: https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/
+
+[GitHub Flavored Markdown Spec]: https://github.github.com/gfm/
+
+[CommonMark Spec]: https://spec.commonmark.org/0.30/
+
+Здесь идет текст абзаца `<blank>` `&#8212;` &#8212; `&mdash;` &mdash;
+
+<http://example.com/>
+
+http://example.com/
+
+<address@example.com>
+
+1. List item one
++
+List item one continued with a second paragraph followed by an Indented block.
++ 
+`````````````````` bash
+$ ls *.sh
+$ mv *.sh ~/tmp
+``````````````````
++
+List item 
+
+2. ldfisdf a
++
+--
+
+| abc | def |
+| --- | --- |
+| bar |
+| bar | baz | boo |
+
+~~Hi~~ Hello, ~there~ world!
+
+This will ~~~not~~~ strike.
