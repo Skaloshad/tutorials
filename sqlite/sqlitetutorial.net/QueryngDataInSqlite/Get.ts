@@ -1,4 +1,4 @@
-import { IMethod } from "./IMethod";
+import { IMethod } from "../types/IMethod";
 
 const go: IMethod = (db) => {
 
