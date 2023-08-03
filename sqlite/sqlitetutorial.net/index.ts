@@ -21,9 +21,9 @@ Parallel(inMemory)
 
 inMemory.serialize(() => {
     Ins.createLangs(inMemory)
-    Ins.go(inMemory)
+    Ins.insOneRow(inMemory)
+    Ins.insMultipleRows(inMemory)
 })
-
 
 //last captioin https://www.sqlitetutorial.net/sqlite-nodejs/statements-control-flow/
 
