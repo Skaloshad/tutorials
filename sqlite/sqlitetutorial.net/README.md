@@ -25,20 +25,20 @@ db.close((err) => { //allow callback
 });
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-|||
-|-|-|
-|`OPEN_READONLY`| open the database for read-only|  
-|`OPEN_READWRITE`| open the database for reading and writting|  
-|`OPEN_CREATE`| open the database, if the database does not exist, create a new database|
-|`OPEN_READWRITE` \| `OPEN_CREATE`| defautl mode
+| mode | description |
+|------|-------------|
+|`OPEN_READONLY` | open the database for read-only            |  
+|`OPEN_READWRITE`| open the database for reading and writting |  
+|`OPEN_CREATE`   | open the database, if the database does not exist, create a new database |
+|`OPEN_READWRITE` \| `OPEN_CREATE`| defautl mode|
 
 # Quering ##############################
 
-`run(sql [, param, ...] [, callback])`  
+`run(sql [, param, ...] [, callback])` Выполняет инсерт или апдейт
 
-> you must use an old-school `function () { ... }` style callback rather than a lambda function, otherwise `this.lastID` and `this.changes` will be undefined  
+> Нужно использовать старый стиль функции обратного вызова `function () { ... }` вместо лямбда выражений function, иначе `this.lastID` и `this.changes` будут иметь значение `undefined`  
 
-`get(sql [, param, ...] [, callback])`  
-`all(sql [, param, ...] [, callback])`  
-`each(sql [, param, ...] [, callback] [, complete])`  
-`exec(sql [, callback])`
+`get(sql [, param, ...] [, callback])` Получает одну строку  
+`all(sql [, param, ...] [, callback])` Получает все строки  
+`each(sql [, param, ...] [, callback] [, complete])` Получает все строки по одной  
+`exec(sql [, callback])` Выполняет запрос без параметров
