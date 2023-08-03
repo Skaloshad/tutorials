@@ -1,10 +1,10 @@
 # Ссылки ##############################
 
 [sqlitetutorial][sqlitetutorial]  
-[api][sqlite api]
+[sqlite api][api]
 
 [sqlitetutorial]: https://www.sqlitetutorial.net
-[sqlite api]: [https://github.com/TryGhost/node-sqlite3/wiki/API]
+[api]: [https://github.com/TryGhost/node-sqlite3/wiki/API]
 
 # Connecting ##########################
 
