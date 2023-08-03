@@ -35,6 +35,9 @@ db.close((err) => { //allow callback
 # Quering ##############################
 
 `run(sql [, param, ...] [, callback])`  
+
+> you must use an old-school `function () { ... }` style callback rather than a lambda function, otherwise `this.lastID` and `this.changes` will be undefined  
+
 `get(sql [, param, ...] [, callback])`  
 `all(sql [, param, ...] [, callback])`  
 `each(sql [, param, ...] [, callback] [, complete])`  
