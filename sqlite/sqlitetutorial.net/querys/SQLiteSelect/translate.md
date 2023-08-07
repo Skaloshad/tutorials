@@ -33,7 +33,7 @@ SELECT
 ~~~ SQL ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 SELECT DISTINCT column_list
 FROM table_list
-  JOIN table ON join_condition
+    JOIN table ON join_condition
 WHERE row_filter
 ORDER BY column
 LIMIT count OFFSET offset
@@ -98,11 +98,11 @@ FROM table;
 ~~~ SQL ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 SELECT
     trackid,
-	name,
-	composer,
-	unitprice
+    name,
+    composer,
+    unitprice
 FROM
-	tracks;
+    tracks;
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 В предложении `SELECT` вы указываете список имен столбцов, по которым хотите получить данные, и таблицу `tracks` в предложении `FROM`. SQLite вернет следующий результат: ([Выполнить запрос][querys])
@@ -112,16 +112,16 @@ FROM
 ~~~ SQL ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 SELECT
 	trackid,
-	name,
-	albumid,
-	mediatypeid,
-	genreid,
-	composer,
-	milliseconds,
-	bytes,
-	unitprice
+    name,
+    albumid,
+    mediatypeid,
+    genreid,
+    composer,
+    milliseconds,
+    bytes,
+    unitprice
 FROM
-	tracks;
+    tracks;
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Для таблиц с большим количеством столбцов, запрос будет настолько длинным, что на его ввод потребуется много времени. Чтобы этого избежать используйте звездочку `*`, которая является сокращением для всех столбцов таблицы:
