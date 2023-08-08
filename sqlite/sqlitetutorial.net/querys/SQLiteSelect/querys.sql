@@ -1,4 +1,4 @@
--- database: g:\documents\Own\tutorials\sqlite\sqlitetutorial.net\chinook.db
+-- database: ..\..\chinook.db
 
 -- Use the ▷ button in the top right corner to run the entire file.
 
