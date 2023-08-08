@@ -1,8 +1,10 @@
 # SQLite ORDER BY #####################
 
-[Файл с запросами][querys]
+[Файл с запросами][querys]   
+[Оригинальная статья][origin]
 
 [querys]: ./querys.sql
+[origin]: https://www.sqlitetutorial.net/sqlite-order-by/
 
 ## Обзор ##############################
 
