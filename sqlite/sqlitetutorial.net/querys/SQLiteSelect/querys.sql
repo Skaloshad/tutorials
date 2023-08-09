@@ -10,23 +10,23 @@ SELECT
 
 SELECT
     trackid,
-	name,
-	composer,
-	unitprice
+    name,
+    composer,
+    unitprice
 FROM
-	tracks;
+    tracks;
 
 SELECT
-	trackid,
-	name,
-	albumid,
-	mediatypeid,
-	genreid,
-	composer,
-	milliseconds,
-	bytes,
-	unitprice
+    trackid,
+    name,
+    albumid,
+    mediatypeid,
+    genreid,
+    composer,
+    milliseconds,
+    bytes,
+    unitprice
 FROM
-	tracks;
+    tracks;
 
 SELECT * FROM tracks;
