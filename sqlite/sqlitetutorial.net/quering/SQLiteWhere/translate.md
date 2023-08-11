@@ -170,8 +170,8 @@ WHERE
 
 В этом руководстве вы изучили, как использовать предложение SQLite `WHERE` для фильтрации финального результирующего набора, используя условия и логические операторы.
 
-Предидущее руководство < [SQLite ORDER BY][prev]  
-Следующее руководство > [SQLite WHERE][next]
+Предидущее руководство < [SQLite SELECT DISTINCT][prev]  
+Следующее руководство > [SQLite LIMIT][next]
 
 [prev]: ../SQLiteSelectDistinct/translate.md
 [next]: ../SQLiteLimit/translate.md
