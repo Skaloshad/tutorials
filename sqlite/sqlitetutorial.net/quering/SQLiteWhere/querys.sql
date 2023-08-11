@@ -33,3 +33,12 @@ WHERE
   composer LIKE '%Smith%'
 ORDER BY
   albumId;
+
+SELECT
+  name,
+  albumId,
+  mediatypeId
+FROM
+  tracks
+WHERE
+  mediatypeId IN (2, 3);
