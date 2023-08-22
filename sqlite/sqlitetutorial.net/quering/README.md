@@ -8,6 +8,7 @@
 [BETWEEN][BETWEEN]  
 [IN][IN]  
 [LIKE][LIKE]  
+[GLOB][GLOB]  
 
 [SELECT]:   ./01_Select/translate.md
 [ORDER]:    ./02_OrderBy/translate.md
@@ -17,3 +18,4 @@
 [BETWEEN]:  ./06_Between/translate.md
 [IN]:       ./07_In/translate.md
 [LIKE]:     ./08_Like/translate.md
+[GLOB]:     ./09_Glob/translate.md
