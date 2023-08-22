@@ -164,4 +164,4 @@ SELECT * FROM tracks;
 
 Слудующее руководство > [SQLite ORDER BY][next]
 
-[next]: ../SQLiteOrderBy/translate.md
+[next]: ../02_OrderBy/translate.md

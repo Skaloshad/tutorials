@@ -145,5 +145,5 @@ ORDER BY
 Предидущее руководство < [SQLite LIMIT][prev]  
 Следующее руководство > [SQLite IN][next]
 
-[prev]: ../SQLiteLimit/translate.md
-[next]: ../SQLiteIn/translate.md
+[prev]: ../05_Limit/translate.md
+[next]: ../07_In/translate.md

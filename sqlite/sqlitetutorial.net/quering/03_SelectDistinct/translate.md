@@ -129,5 +129,5 @@ FROM customers;
 Предидущее руководство < [SQLite ORDER BY][prev]  
 Следующее руководство > [SQLite WHERE][next]
 
-[prev]: ../SQLiteOrderBy/translate.md
-[next]: ../SQLiteWhere/translate.md
+[prev]: ../02_OrderBy/translate.md
+[next]: ../04_Where/translate.md

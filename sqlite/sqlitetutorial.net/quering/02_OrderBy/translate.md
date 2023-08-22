@@ -190,5 +190,5 @@ ORDER BY
 Предидущее руководство < [SQLite SELECT][prev]  
 Следующее руководство > [SQLite SELECT DISTINCT][next]
 
-[prev]: ../SQLiteSelect/translate.md
-[next]: ../SQLiteSelectDistinct/translate.md
+[prev]: ../01_Select/translate.md
+[next]: ../03_SelectDistinct/translate.md

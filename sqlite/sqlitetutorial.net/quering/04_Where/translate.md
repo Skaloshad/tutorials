@@ -173,5 +173,5 @@ WHERE
 Предидущее руководство < [SQLite SELECT DISTINCT][prev]  
 Следующее руководство > [SQLite LIMIT][next]
 
-[prev]: ../SQLiteSelectDistinct/translate.md
-[next]: ../SQLiteLimit/translate.md
+[prev]: ../03_SelectDistinct/translate.md
+[next]: ../05_Limit/translate.md

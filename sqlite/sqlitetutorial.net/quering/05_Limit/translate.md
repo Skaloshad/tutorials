@@ -157,5 +157,5 @@ LIMIT 1 OFFSET 2;
 Предидущее руководство < [SQLite WHERE][prev]  
 Следующее руководство > [SQLite BETWEEN][next]
 
-[prev]: ../SQLiteWhere/translate.md
-[next]: ../SQLiteBetween/translate.md
+[prev]: ../04_Where/translate.md
+[next]: ../06_Between/translate.md
