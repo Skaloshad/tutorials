@@ -10,6 +10,7 @@
 [LIKE][LIKE]  
 [GLOB][GLOB]  
 [IS NULL][IS NULL]
+[JOIN][JOIN]
 
 [SELECT]:       ./01_Select/translate.md
 [ORDER]:        ./02_OrderBy/translate.md
@@ -21,3 +22,4 @@
 [LIKE]:         ./08_Like/translate.md
 [GLOB]:         ./09_Glob/translate.md
 [IS NULL]:      ./10_IsNull/translate.md
+[JOIN]:         ./11_Join/translate.md
