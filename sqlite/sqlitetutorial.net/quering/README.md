@@ -9,8 +9,9 @@
 [IN][IN]  
 [LIKE][LIKE]  
 [GLOB][GLOB]  
-[IS NULL][IS NULL]
-[JOIN][JOIN]
+[IS NULL][IS NULL]  
+[JOIN][JOIN]  
+[INNER JOIN][INNER JOIN]  
 
 [SELECT]:       ./01_Select/translate.md
 [ORDER]:        ./02_OrderBy/translate.md
@@ -23,3 +24,4 @@
 [GLOB]:         ./09_Glob/translate.md
 [IS NULL]:      ./10_IsNull/translate.md
 [JOIN]:         ./11_Join/translate.md
+[INNER JOIN]:   ./12_InnerJoin/translate.md
