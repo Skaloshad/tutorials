@@ -12,6 +12,7 @@
 [IS NULL][IS NULL]  
 [JOIN][JOIN]  
 [INNER JOIN][INNER JOIN]  
+[LEFT JOIN][LEFT JOIN]
 
 [SELECT]:       ./01_Select/translate.md
 [ORDER]:        ./02_OrderBy/translate.md
@@ -25,3 +26,4 @@
 [IS NULL]:      ./10_IsNull/translate.md
 [JOIN]:         ./11_Join/translate.md
 [INNER JOIN]:   ./12_InnerJoin/translate.md
+[LEFT JOIN]:    ./13_LeftJoin/translate.md
