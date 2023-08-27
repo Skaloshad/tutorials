@@ -13,6 +13,7 @@
 [JOIN][JOIN]  
 [INNER JOIN][INNER JOIN]  
 [LEFT JOIN][LEFT JOIN]
+[CROSS JOIN][CROSS JOIN]
 
 [SELECT]:       ./01_Select/translate.md
 [ORDER]:        ./02_OrderBy/translate.md
@@ -27,3 +28,4 @@
 [JOIN]:         ./11_Join/translate.md
 [INNER JOIN]:   ./12_InnerJoin/translate.md
 [LEFT JOIN]:    ./13_LeftJoin/translate.md
+[CROSS JOIN]:   ./14_CrossJoin/translate.md
