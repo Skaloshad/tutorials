@@ -18,6 +18,7 @@
 [SELF JOIN][SELF JOIN]  
 [GROUP BY][GROUP BY]  
 [HAVING][HAVING]  
+[UNION][UNION]  
 
 [SELECT]:           ./01_Select/translate.md
 [ORDER]:            ./02_OrderBy/translate.md
@@ -37,3 +38,4 @@
 [SELF JOIN]:        ./16_SelfJoin/translate.md
 [GROUP BY]:         ./17_GroupBy/translate.md
 [HAVING]:           ./18_Having/translate.md
+[UNION]:            ./19_Union/translate.md
