@@ -17,6 +17,7 @@
 [FULL OUTER JOIN][FULL OUTER JOIN]  
 [SELF JOIN][SELF JOIN]  
 [GROUP BY][GROUP BY]  
+[HAVING][HAVING]  
 
 [SELECT]:           ./01_Select/translate.md
 [ORDER]:            ./02_OrderBy/translate.md
@@ -34,4 +35,5 @@
 [CROSS JOIN]:       ./14_CrossJoin/translate.md
 [FULL OUTER JOIN]:  ./15_FullOuterJoin/translate.md
 [SELF JOIN]:        ./16_SelfJoin/translate.md
-[GROUP BY]:           ./17_GroupBy/translate.md
+[GROUP BY]:         ./17_GroupBy/translate.md
+[HAVING]:           ./18_Having/translate.md
