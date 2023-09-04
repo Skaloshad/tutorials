@@ -20,6 +20,7 @@
 [HAVING][HAVING]  
 [UNION][UNION]  
 [EXCEPT][EXCEPT]  
+[INTERSECT][INTERSECT]  
 
 [SELECT]:           ./01_Select/translate.md
 [ORDER]:            ./02_OrderBy/translate.md
@@ -41,3 +42,4 @@
 [HAVING]:           ./18_Having/translate.md
 [UNION]:            ./19_Union/translate.md
 [EXCEPT]:           ./20_Except/translate.md
+[INTERSECT]:        ./21_Intersect/translate.md
