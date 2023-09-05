@@ -21,6 +21,7 @@
 [UNION][UNION]  
 [EXCEPT][EXCEPT]  
 [INTERSECT][INTERSECT]  
+[SUBQUERY][SUBQUERY]   
 
 [SELECT]:           ./01_Select/translate.md
 [ORDER]:            ./02_OrderBy/translate.md
@@ -43,3 +44,4 @@
 [UNION]:            ./19_Union/translate.md
 [EXCEPT]:           ./20_Except/translate.md
 [INTERSECT]:        ./21_Intersect/translate.md
+[SUBQUERY]:         ./22_Subquery/translate.md
