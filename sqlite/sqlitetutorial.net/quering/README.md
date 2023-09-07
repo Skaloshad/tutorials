@@ -23,6 +23,7 @@
 [INTERSECT][INTERSECT]  
 [SUBQUERY][SUBQUERY]   
 [EXISTS][EXISTS]  
+[CASE][CASE]  
 
 [SELECT]:           ./01_Select/translate.md
 [ORDER]:            ./02_OrderBy/translate.md
@@ -47,3 +48,4 @@
 [INTERSECT]:        ./21_Intersect/translate.md
 [SUBQUERY]:         ./22_Subquery/translate.md
 [EXISTS]:           ./23_Exists/translate.md
+[CASE]:             ./24_Case/translate.md
