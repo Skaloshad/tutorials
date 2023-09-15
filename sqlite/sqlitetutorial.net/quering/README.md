@@ -25,6 +25,7 @@
 [EXISTS][EXISTS]  
 [CASE][CASE]  
 [INSERT][INSERT]  
+[UPDATE][UPDATE]  
 
 [SELECT]:           ./01_Select/translate.md
 [ORDER]:            ./02_OrderBy/translate.md
@@ -51,3 +52,4 @@
 [EXISTS]:           ./23_Exists/translate.md
 [CASE]:             ./24_Case/translate.md
 [INSERT]:           ./25_Insert/translate.md
+[UPDATE]:           ./26_Update/translate.md
