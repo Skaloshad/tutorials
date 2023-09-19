@@ -53,3 +53,6 @@ They work - Они работают;
 - **We live in this country** - [`wiː lɪv ɪn ðɪs ˈkʌntri`] - Мы живем в этой стране
 
 ## Practic
+
+- **Я помню это** - I understand it
+- 
