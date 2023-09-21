@@ -52,7 +52,7 @@ They work - Они работают;
 - **I live in this city** - [`aɪ lɪv ɪn ðɪs ˈsɪti`] - Я живу в этом городе
 - **We live in this country** - [`wiː lɪv ɪn ðɪs ˈkʌntri`] - Мы живем в этой стране
 
-## Practic
+## Practice
 
 - **Я помню это** - I remember it
 - **Я понимаю тебя** - I understand you
