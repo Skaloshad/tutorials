@@ -27,6 +27,7 @@
 [INSERT][INSERT]  
 [UPDATE][UPDATE]  
 [DELETE][DELETE]  
+[REPLACE][REPLACE]  
 
 [SELECT]:           ./01_Select/translate.md
 [ORDER]:            ./02_OrderBy/translate.md
@@ -55,3 +56,4 @@
 [INSERT]:           ./25_Insert/translate.md
 [UPDATE]:           ./26_Update/translate.md
 [DELETE]:           ./27_Delete/translate.md
+[REPLACE]:          ./28_Replace/translate.md
