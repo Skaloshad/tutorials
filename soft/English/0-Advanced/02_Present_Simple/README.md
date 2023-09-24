@@ -43,3 +43,54 @@
 - It really happen`s` - Это действительно случается
 
 ## Practice
+
+- **Это выглядит странным** - It looks strange
+- **Он читает на Английском** - He reeds in English
+- **Она помнит это** - She remembers it
+- **Это выглядит интересным** - It looks interesting
+- **Он работает очень усердно** - He works very hard
+- **Ты работаеш очень усердно** - You work very hard
+- **Он помогает мне** - He helps me
+- **Он очень хорошо понимает тебя** - He understands you very well
+- **Он также работает здесь** - He also works here
+- **Это действительно происходит** - It really happens
+- **Он видит ту ошибку** - He sees that mistake
+- **Она работает очень усердно** - She works very hard
+- **Она чувствует себя счастливой** - She feels happy
+- **Он также помнит это** - He also remembers it
+- **Он живет в этом доме** - He lives in this house
+- **Она также работает там** - She also works there
+- **Он знает это** - He knows it
+- **Она действительно помнит это** - She really remembers it
+- **Она также думает так** - She also thinks so
+- **Он также знает это** - He also knows it
+- **Она живет в том месте** - She lives in that place
+- **Она люит тебя** - She loves you
+- **Она очень хорошо говорить по-английски** - She speaks English very well
+- **Он думает так** - He thinks so
+- **Он живет в этой стране** - He lives in this country
+- **Она читает английские книги** - She reads English books
+- **Я люблю тебя** - I love you
+- **Это реально помогает мне** - It really helps me
+- **Она видит эту ошибку** - She sees this mistake
+- **Она помогает мне** - She helps me
+- **Он чувствует себя счастливым** - He feels happy
+- **Это кажется интересным** - It seems interesting
+- **Он хочет больше** - He wonts more
+- **Он также работает здесь** - He also works here
+- **Они учатся очень усердно** - They study very hard
+- **Он действительно думает так** - He really thinks so
+- **Она живет в том городе** - She lives in that city
+- **Это помогает мне** - It helps me
+- **Это происходит** - It happens
+- **Она живет в этом месте** - She lives in this place
+- **Она хочет больше** - She wonts more
+- **Он хочет больше практики** - He wonts more practice
+- **Он живет там** - He lives thare
+- **Я чувствую себя счастливым** - I feel happy
+- **Мы хотим это** - We want it
+- **Она хочет больше практики** - She wants more practice
+- **Она читает на английском** - She reads in English
+- **Он любит тебя** - He loves you
+- **Он знает больше** - He knows more
+- **Я хочу больше практики** - I want more practice
