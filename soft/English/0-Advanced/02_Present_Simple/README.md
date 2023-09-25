@@ -4,43 +4,43 @@
 
 > I, We, You, They + глагол
 
-- I love you - [`aɪ lʌv juː`] - Я люблю тебя
-- We want it - Мы хотим это
-- You work very hard - Ты работаешь очень усердно
-- They study very hard - Они учатся очень усердно
+- **I love you** - [`aɪ lʌv juː`] - Я люблю тебя
+- **We want it** - [`wiː wɒnt ɪt`] - Мы хотим это
+- **You work very hard** - [`juː wɜːk ˈvɛri hɑːd`] - Ты работаешь очень усердно
+- **They study very hard** - [`ðeɪ ˈstʌdi ˈvɛri hɑːd`] - Они учатся очень усердно
 
 > He, She, It + глагол + `s`
 
-- He live`s` there - Он живет там
-- She feel`s` happy - Она чувствует себя счастливой
-- I feel happy - Я чувствую себя счастливым
-- It help`s` me - Это помогает мне
-- He also warks here - Он так-же работает здесь
-- He think`s` so - Он думает так
-- He live`s` in this house - Он живет в этом доме
-- She remember`s` it - Она помнит это
-- She live`s` in this place - Она живет в этом месте
-- She live`s` in that place - Она живет в том месте
+- **He live`s` there** - [`hiː lɪvz ðeə`] - Он живет там
+- **She feel`s` happy** - [`ʃiː fiːlz ˈhæpi`] - Она чувствует себя счастливой
+- **I feel happy** - [`aɪ fiːl ˈhæpi`] - Я чувствую себя счастливым
+- **It help`s` me** - [`ɪt hɛlps miː`] - Это помогает мне
+- **He also works here** - [`hiː ˈɔːlsəʊ wɜːks hɪə`] - Он так-же работает здесь
+- **He think`s` so** - [`hiː θɪŋks səʊ`] - Он думает так
+- **He live`s` in this house** - [`hi lɪvz ɪn ðɪs haʊs`] - Он живет в этом доме
+- **She remember`s` it** - [`ʃi rɪˈmɛmbərz ɪt`] - Она помнит это
+- **She live`s` in this place** - [`ʃi lɪvz ɪn ðɪs pleɪs`] - Она живет в этом месте
+- **She live`s` in that place** - [`ʃi lɪvz ɪn ðæt pleɪs`] - Она живет в том месте
 
 > После указательных местоимений `this` и `that` артикль не ставиться
 
-- She speak`s` English very well - Она говорит по-английски очень хорошо
-- It really help`s` me - Это реально помогает мне
-- It look`s` interesting - Это выглядит интересным
-- It seem`s` interesting - Это кажется интересным
-- He read`s` in English - Он читает на английском
-- She read`s` English books - Она читает Английские буквы
+- **She speak`s` English very well** - [`ʃi spiks ˈɪŋɡlɪʃ ˈvɛri wɛl`] - Она говорит по-английски очень хорошо
+- **It really help`s` me** - [`ɪt ˈrɪli hɛlps mi`] - Это реально помогает мне
+- **It look`s` interesting** - [`ɪt lʊks ˈɪntrəstɪŋ`] - Это выглядит интересным
+- **It seem`s` interesting** - [`ɪt simz ˈɪntrəstɪŋ`] - Это кажется интересным
+- **He read`s` in English** - [`hi ridz ɪn ˈɪŋɡlɪʃ`] - Он читает на английском
+- **She read`s` English books** - [`ʃi ridz ˈɪŋɡlɪʃ bʊks`] - Она читает Английские буквы
 
 > Неопределенный артикль ставиться только перед единственным числом
 
-- It look`s` strange - Это выглядит странным
-- He know`s` it - Он знает это
-- She see`s` this mistake - Она видит эту ошибку
-- He see`s` that mistake - Он видит ту ошибку
-- It happen`s` - Это случается
-- He want`s` more - Он хочет большего
-- She want`s` more practice - Она хочет больше практики
-- It really happen`s` - Это действительно случается
+- **It look`s` strange** - [`ɪt lʊks streɪnʤ`] - Это выглядит странным
+- **He know`s` it** - [`hi noʊz ɪt`] - Он знает это
+- **She see`s` this mistake** - [`ʃi siz ðɪs mɪsˈteɪk`] - Она видит эту ошибку
+- **He see`s` that mistake** - [`hi siz ðæt mɪsˈteɪk`] - Он видит ту ошибку
+- **It happen`s`** - [`ɪt ˈhæpənz`] - Это случается
+- **He want`s` more** - [`hi wɑnts mɔr`] - Он хочет большего
+- **She want`s` more practice** - [`ʃi wɑnts mɔr ˈpræktəs`] - Она хочет больше практики
+- **It really happen`s`** - [`ɪt ˈrɪli ˈhæpənz`] - Это действительно случается
 
 ## Practice
 
