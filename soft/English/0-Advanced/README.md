@@ -16,6 +16,7 @@
 | [01 - Present Simple - practice][01_p]                | [Video][01_p_video]                   |
 | [02 - Present Simple - lesson ][02_l]                 | [Video][02_l_video]                   |
 | [02 - Present Simple - practice][02_p]                | [Video][02_p_video]                   |
+| [03 - Present Simple - lesson ][03_l]                 | [Video][03_l_video]                   |
 
 
 [01_l]: ./01_Present_Simple/README.md#lesson
@@ -26,3 +27,5 @@
 [02_l_video]: https://www.youtube.com/watch?v=nXI9CN5a6ew&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=3
 [02_p]: ./02_Present_Simple/README.md#practice
 [02_p_video]: https://www.youtube.com/watch?v=7MnnYT9hWLg&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=4
+[03_l]: ./03_Present_Simple/README.md#lesson
+[03_l_video]: https://www.youtube.com/watch?v=GCNEqFJM3GA&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=6
