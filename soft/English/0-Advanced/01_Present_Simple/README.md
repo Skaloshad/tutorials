@@ -54,5 +54,14 @@ They work - Они работают;
 
 ## Practic
 
-- **Я помню это** - I understand it
+- **Я помню это** - I remember it
+- Я понимаю тебя - I understand you
+- Я думаю так - I think so
+- Мы говорим по-английски - We speak English
+- Я очень хорошо знаю это - I know it very well
+- Ты помогаешь мне - You help me
+- Я живу в России - I live in Russia
+- Я очень хоро понимаю тебя - I understand you very well
+- Я живу в этом городе - I live in this city
+- Мы помним это - We remember it
 - 
