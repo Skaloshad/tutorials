@@ -27,6 +27,11 @@
 [INSERT][INSERT]  
 [UPDATE][UPDATE]  
 [DELETE][DELETE]  
+[REPLACE][REPLACE]  
+[TRANSACTION][TRANSACTION]  
+[FULL-TEXT SEARCH][FULL-TEXT SEARCH]   
+[DATA TYPES][DATA TYPES]   
+[DATE & TIME][DATE & TIME]   
 
 [SELECT]:           ./01_Select/translate.md
 [ORDER]:            ./02_OrderBy/translate.md
@@ -55,3 +60,8 @@
 [INSERT]:           ./25_Insert/translate.md
 [UPDATE]:           ./26_Update/translate.md
 [DELETE]:           ./27_Delete/translate.md
+[REPLACE]:          ./28_Replace/translate.md
+[TRANSACTION]:      ./29_Transaction/translate.md
+[FULL-TEXT SEARCH]: ./30_FullTextSearch/translate.md
+[DATA TYPES]:       ./31_DataTypes/translate.md
+[DATE & TIME]:      ./32_DateAndTime/translate.md
