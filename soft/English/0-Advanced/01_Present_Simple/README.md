@@ -52,16 +52,45 @@ They work - Они работают;
 - **I live in this city** - [`aɪ lɪv ɪn ðɪs ˈsɪti`] - Я живу в этом городе
 - **We live in this country** - [`wiː lɪv ɪn ðɪs ˈkʌntri`] - Мы живем в этой стране
 
-## Practic
+## Practice
 
 - **Я помню это** - I remember it
-- Я понимаю тебя - I understand you
-- Я думаю так - I think so
-- Мы говорим по-английски - We speak English
-- Я очень хорошо знаю это - I know it very well
-- Ты помогаешь мне - You help me
-- Я живу в России - I live in Russia
-- Я очень хоро понимаю тебя - I understand you very well
-- Я живу в этом городе - I live in this city
-- Мы помним это - We remember it
-- 
+- **Я понимаю тебя** - I understand you
+- **Я думаю так** - I think so
+- **Мы говори по-английски** - We speak English
+- **Я очень хорошо знаю это** - I know it very well
+- **Ты помогаешь мне** - You help me
+- **Я живу в России** - I live in Russia
+- **Я очень хорошо тебя понимаю** - I understand you very well
+- **Я живу в этом городе** - I live in this city
+- **Мы помним это** - We remember it
+- **Я говорю по-английски** - I speak English
+- **Я работаю там** - I work there
+- **Они помогаю мне** - They help me
+- **Мы понимаем тебя** - We understand you
+- **У меня есть идея** - I have an idea
+- **У меня есть брат** - I have a brother
+- **Они ходят в школу** - They go to school
+- **Ты очень хорошо говоришь по-английски** - You speak English very well
+- **У меня есть машина** - I have a car
+- **Мы живем здесь** - We live here
+- **Я очень хорошо помню это** - I remember it very well
+- **Я живу в этом городе** - I live in this city
+- **Я хожу на работу** - I go to work
+- **Я учусь здесь** - I study here
+- **Я хочу это** - I want it
+- **Мы думаем так** - We think so
+- **Я учусь там** - I study there
+- **Я знаю это** - I know it
+- **Я работаю здесь** - I work here
+- **Они ходят на работу** - They go to work
+- **Ты знаешь это** - You know it
+- **Я работаю** - I work
+- **Я живу в этой стране** - I live in this country
+- **Мы живем в этой стране** - We live in Russia
+- **У меня есть сестра** - I have a sister
+- **Ты видишь это** - You see it
+- **Я хожу в школу** - I go to school
+- **Я понимаю** - I understand
+- **Мы живем в этой стране** - We live in this country
+- **Я вижу это** - I see it

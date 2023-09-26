@@ -13,10 +13,16 @@
 | Урок                                                  | Ссылка                                |
 |-------------------------------------------------------|---------------------------------------|
 | [01 - Present Simple - lesson ][01_l]                 | [Video][01_l_video]                   |
-| [01 - Present Simple - practic][01_p]                 | [Video][01_p_video]                   |
+| [01 - Present Simple - practice][01_p]                | [Video][01_p_video]                   |
+| [02 - Present Simple - lesson ][02_l]                 | [Video][02_l_video]                   |
+| [02 - Present Simple - practice][02_p]                | [Video][02_p_video]                   |
 
 
 [01_l]: ./01_Present_Simple/README.md#lesson
 [01_l_video]: https://www.youtube.com/watch?v=Hp9wUEDasY4&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=1&pp=iAQB
-[01_p]: ./01_Present_Simple/README.md#practic
+[01_p]: ./01_Present_Simple/README.md#practice
 [01_p_video]: https://www.youtube.com/watch?v=jMCOyUgKhqU&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=2
+[02_l]: ./02_Present_Simple/README.md#lesson
+[02_l_video]: https://www.youtube.com/watch?v=nXI9CN5a6ew&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=3
+[02_p]: ./02_Present_Simple/README.md#practice
+[02_p_video]: https://www.youtube.com/watch?v=7MnnYT9hWLg&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=4
