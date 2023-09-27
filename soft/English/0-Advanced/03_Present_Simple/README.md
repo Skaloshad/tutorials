@@ -65,9 +65,42 @@ Try - `tries`
 Правило двух глаголов ( разделяем с помощью `to`):  
 verb + to + verb
 
-- He tr`ies` `to` do`es` it - Он пытается сделать это
+- He tr`ies` `to` do it - Он пытается сделать это
 - She tr`ies` `to` learn English - Она пытается выучить английский
 - He tr`ies` `to` find a job - Он пытается найти работу
 - He sometimes pla<u>y</u>`s` computer games - Он иногда играет в компьютерные игры
 
 ## Practice
+
+- Он хочет сделать это - He wants to do it
+- Она смотрит телевизор - She watches TV
+- У нее есть кошка - She has a cat
+- Она всегда делает это вовремя - She always does it on time
+- Она ходит в школу - She goes to school
+- Он делает это каждый день - He does it every day
+- Он скучает по тебе - He misses you
+- Она иногда ходит в кино - She sometimes goes to the cinema
+- Он иногда иногда играет в компьютерные игры - He sometimes plays computer games
+- У него есть собака - He has a dog
+- Она преподает это - She teaches it
+- Он пытается найти работу - He tries to find a job
+- Он ходит на работу - He goes to work
+- Она чувствуе себя такой счастливой - She feels so happy
+- У нее есть интересные идеи - She has interesting ideas
+- Он часто ходит в кино - He often goes to the cinema
+- Он иногда хочет сделать это - He sometimes wonts to do it
+- Она скучает по тебе - She misses you
+- Он пытается сделать это - He tries to do it
+- Она хочет пойти в парк - She wants to go to the park
+- У него есть деньги - He has money
+- У нее есть мащина - She has a car
+- Он пытается помоч мне - He tries to help me
+- у него есть доллары - He has dollars
+- У него есть предложение - He has an offer
+- Он преподает английский - He teaches English
+- Она пытается выучить английский - She tries to learn English
+- У него есть дом - He has (got) a house
+- Она делает это очень хорошо - She does it very well
+- Он часто играет в компьютерные игры - He orten plays computer games
+- Она пытается понять это - She tries to understand it
+- Она часто ходит в парк - She often goes to the park
