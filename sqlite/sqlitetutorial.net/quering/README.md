@@ -34,6 +34,7 @@
 [DATE & TIME][DATE & TIME]   
 [ATTACH DATABASE][ATTACH DATABASE]   
 [CREATE TABLE][CREATE TABLE]   
+[AUTOINCREMENT][AUTOINCREMENT]   
 
 [SELECT]:           ./01_Select/translate.md
 [ORDER]:            ./02_OrderBy/translate.md
@@ -69,3 +70,4 @@
 [DATE & TIME]:      ./32_DateAndTime/translate.md
 [ATTACH DATABASE]:  ./33_AttachDatabase/translate.md
 [CREATE TABLE]:     ./34_CreateTable/translate.md
+[AUTOINCREMENT]:    ./35_Autoincrement/translate.md
