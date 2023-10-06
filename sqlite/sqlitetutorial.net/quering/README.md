@@ -35,6 +35,7 @@
 [ATTACH DATABASE][ATTACH DATABASE]   
 [CREATE TABLE][CREATE TABLE]   
 [AUTOINCREMENT][AUTOINCREMENT]   
+[PRIMARY KEY][PRIMARY KEY]   
 
 [SELECT]:           ./01_Select/translate.md
 [ORDER]:            ./02_OrderBy/translate.md
@@ -71,3 +72,4 @@
 [ATTACH DATABASE]:  ./33_AttachDatabase/translate.md
 [CREATE TABLE]:     ./34_CreateTable/translate.md
 [AUTOINCREMENT]:    ./35_Autoincrement/translate.md
+[PRIMARY KEY]:      ./36_PrimaryKey/translate.md
