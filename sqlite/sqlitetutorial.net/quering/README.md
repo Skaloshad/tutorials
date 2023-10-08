@@ -36,6 +36,7 @@
 [CREATE TABLE][CREATE TABLE]   
 [AUTOINCREMENT][AUTOINCREMENT]   
 [PRIMARY KEY][PRIMARY KEY]   
+[FOREIGN KEY][FOREIGN KEY]   
 
 [SELECT]:           ./01_Select/translate.md
 [ORDER]:            ./02_OrderBy/translate.md
@@ -73,3 +74,4 @@
 [CREATE TABLE]:     ./34_CreateTable/translate.md
 [AUTOINCREMENT]:    ./35_Autoincrement/translate.md
 [PRIMARY KEY]:      ./36_PrimaryKey/translate.md
+[FOREIGN KEY]:      ./37_ForeignKey/translate.md
