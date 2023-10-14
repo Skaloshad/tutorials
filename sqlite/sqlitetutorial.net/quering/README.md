@@ -38,6 +38,7 @@
 [PRIMARY KEY][PRIMARY KEY]   
 [FOREIGN KEY][FOREIGN KEY]   
 [NOT NULL CONSTRAINT][NOT NULL CONSTRAINT]   
+[UNIQUE][UNIQUE]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -77,3 +78,4 @@
 [PRIMARY KEY]:            ./36_PrimaryKey/translate.md
 [FOREIGN KEY]:            ./37_ForeignKey/translate.md
 [NOT NULL CONSTRAINT]:    ./38_NotNullConstraint/translate.md
+[UNIQUE]:                 ./39_UniqueConstraint/translate.md
