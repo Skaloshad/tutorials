@@ -20,7 +20,8 @@
 | [03 - Present Simple - practice][03_p]                | [Video][03_p_video]                   |
 | [04 - Present Simple - lesson ][04_l]                 | [Video][04_l_video]                   |
 | [04 - Present Simple - practice][04_p]                | [Video][04_p_video]                   |
-| [04 - Present Simple - control][05_c]                 | [video][05_c_video]                   |
+| [05 - Present Simple - control][05_c]                 | [Video][05_c_video]                   |
+| [05.1 - Present Simple - test][05.1_t]                | [Video][05.1_t_video]                 |
 
 
 [01_l]: ./01_Present_Simple/README.md#lesson
@@ -41,3 +42,5 @@
 [04_p_video]: https://www.youtube.com/watch?v=oDbDuu17p7I&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=8
 [05_c]: 05_Present_Simple/README.md#present-simple
 [05_c_video]: https://www.youtube.com/watch?v=nPXmJZx60K0&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=9
+[05.1_t]: 05_Present_Simple/README.md#5.1
+[05.1_t_video]: https://www.youtube.com/watch?v=EJEKg2lkjW4&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=10
