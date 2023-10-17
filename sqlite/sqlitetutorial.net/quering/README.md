@@ -39,6 +39,7 @@
 [FOREIGN KEY][FOREIGN KEY]   
 [NOT NULL CONSTRAINT][NOT NULL CONSTRAINT]   
 [UNIQUE][UNIQUE]   
+[CHECK][CHECK]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -79,3 +80,4 @@
 [FOREIGN KEY]:            ./37_ForeignKey/translate.md
 [NOT NULL CONSTRAINT]:    ./38_NotNullConstraint/translate.md
 [UNIQUE]:                 ./39_UniqueConstraint/translate.md
+[CHECK]:                  ./40_CheckConstraint/translate.md
