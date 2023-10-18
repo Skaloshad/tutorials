@@ -149,4 +149,60 @@
 
 ## 5.2
 
+- **Мой босс читает все документы** - My boss reads all the documents
+- **Он пытается найти работу** - He tries to find a job
+- **Они учатся очень усердно** - They study very hard
+- **Эти уроки помогают мне** - These lessons help me
+- **У него есть деньги** - He has money
+- **Я живу в России** - I live in Russia
+- **Ты работаешь очень усердно** - You work very hard
+- **Он иногда играет в компьютерные игры** - He sometimes plays computer games
+- **Её брат часто говорит это** - Her brother often says it
+- **Мои родители знают это** - My parents know it
+
+---------------------------------------
+
+- **Мой босс обычно делает так** - My boss usually does so
+- **У них есть деньги** - They have money
+- **У нее есть эта информация** - She has this information
+- **Мои родители хотят сделать это** - My parents want to do it
+- **Она иногда ходит в кино** - She sometimes goes to the cinema
+- **Она хочет больше практики** - She wants more practice
+- **Я очень хорошо помню это** - I remember it very well
+- **Это кажется интересным** - It seems interesting
+- **Он чувствует себя счастливым** - He feels happy
+- **Она скучает по тебе** - She misses you
+
+---------------------------------------
+
+- **У моего друга есть машина** - My friend has a car
+- **У его отца есть машина** - His father has a car
+- **Я чувствую себя счастливым** - I feel happy
+- **Он хочет больше практики** - He wants more practice
+- **Это действительно случается (происходит)** - It really happens
+- **Мы понимаем тебя** - We understand you
+- **Он часто ходит в кино** - He often goes to the cinema
+- **Он также помнит это** - He also remembers it
+- **Он делает это каждый день** - He does it every day
+- **Я помню это** - I remember it
+
+---------------------------------------
+
+- **Мой босс всегда говорит это** - My boss always says it
+- **Он живет там** - He lives there
+- **Эти уроки реально помогают** - These lessons really help
+- **Я чувствую это** - I feel it
+- **Это происходит (случается)** - It happens
+- **Он также работает здесь** - He also works here
+- **Я хожу в школу** - I go to school
+- **Наша мама думает также** - Our mother thinks the same
+
+> Если `также` используется на `конце`, то `the same`, если в `середине` или `начале`, то `also`
+
+- **Наша мама также думает** - Our mother also thinks (so)
+
+> (Так сказать не может, потому что это получается, что она также может думать(вообще), а фраза подразумевает, что она также думает `так`, поэтому нужно добавить `so` на конце)
+
+- Он реально думает так - He really thiks so
+
 ## 5.3
