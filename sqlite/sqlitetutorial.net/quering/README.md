@@ -40,6 +40,7 @@
 [NOT NULL CONSTRAINT][NOT NULL CONSTRAINT]   
 [UNIQUE][UNIQUE]   
 [CHECK][CHECK]   
+[ALTER TABLE][ALTER TABLE]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -81,3 +82,4 @@
 [NOT NULL CONSTRAINT]:    ./38_NotNullConstraint/translate.md
 [UNIQUE]:                 ./39_UniqueConstraint/translate.md
 [CHECK]:                  ./40_CheckConstraint/translate.md
+[ALTER TABLE]:            ./41_AlterTable/translate.md
