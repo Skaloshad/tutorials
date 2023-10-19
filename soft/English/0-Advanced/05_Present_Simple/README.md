@@ -238,3 +238,79 @@
 - **Я люблю тебя** - I love you
 
 ## 5.3
+
+- **У меня есть семья** - I have a family
+- **Я работаю здесь** - I work here
+- **Этот урок кажется интересным** - This lesson seems interesting
+- **Она очень хорошо делает это** - She does it very well
+- **Мой друг думает так** - My frieng thinks so
+- **Она любит тебя** - She loves you
+- **Наш босс знает это** - Our boss knows it
+- **Это выглядит интересно** - It looks interesting
+- **Мой брат хочет это** - My brother wants it
+- **Все твои идеи кажутся очень интересными** - All your ideas seem very interesting
+
+---------------------------------------
+
+- **Он любит тебя** - He loves you
+- **Мы помним это** - We remember it
+- **Мой брат пытается сделать это** - My brother tries to do it
+- **Моя сестра живёт там** - My sister lives there
+- **Я работаю там** - I work there
+- **Я понимаю тех людей** - I understand those people
+- **Она всегда делает это хорошо** - She always does it well
+- **Я живу в этой стране** - I live in this country
+- **Я живу в этом городе** - I live in this city
+- **Она преподает это** - She teaches it
+
+---------------------------------------
+
+- **Я думаю так** - I think so
+- **Она также думает так** - She also thiks so
+- **Он пытает делать это** - He tries to do it
+- **Он живет в этой стране** - He lives in this country
+- **Его идея кажется очень интересной** - His idea seems very interesting
+- **Его уроки кажутся очень полезными** - His lessons seem very useful
+- **Он также работает здесь** - He also works here
+- **Она ходит в школу** - She goes to school
+- **Я читаю английские книги** - I read English books
+- **Она помогает мне** - She helps me
+
+---------------------------------------
+
+- **Он также знает это** - He also knows it
+- **Мы видим его успех** - We see his success
+- **Она часто ходит в парк** - She often goes to the park
+- **То предложение кажется странным** - That offer seems strange
+- **У него есть предложение** - He has an offer
+- **Их идеи кажутся очень интересными** - Their ideas seem very interesting
+- **Она всегда делает это вовремя** - She always does it on time
+- **Он видит ту ошибку** - He sees that mistake
+- **Она смотрит телевизор** - She watches TV
+- **Она хочет большего** - She wants more
+
+---------------------------------------
+
+- **Я работаю** - I work
+- **Её слова кажутся странными** - Her words seem strange
+- **Он часто играет в компьютерные игры** - He often plays computer games
+- **Он ходит на работу** - He goes to work
+- **Она живет в том месте** - She lives in that place
+- **Он очень хорошо понимает тебя** - He understands you very well
+- **Они ходят на работу** - They go to work
+- **Ты всегда говоришь это** - You always say it
+- **Этот урок помогает мне** - This lesson helps me
+- **Они часто ходят в кино** - They often go to the cinema
+
+---------------------------------------
+
+- **Эти уроки кажутся очень полезными** - These lessons seem very useful
+- **Они помогают мне** - They help me
+- **Я говорю по-Английски** - I speak English
+- **Он иногда хочет сделать это** - He sometimes wants to do it
+- **Я все понимаю** - I understand everything
+- **Она живет в этом месте** - She lives in this place
+- **Я читаю по-Английски** - I read in English
+- **Он говорит интересные вещи** - He says interesting things
+- **Мы видим их успех** - We see their success
+- **Я знаю это слово** - I know this word
