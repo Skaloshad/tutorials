@@ -41,6 +41,7 @@
 [UNIQUE][UNIQUE]   
 [CHECK][CHECK]   
 [ALTER TABLE][ALTER TABLE]   
+[RENAME COLUMN][RENAME COLUMN]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -83,3 +84,4 @@
 [UNIQUE]:                 ./39_UniqueConstraint/translate.md
 [CHECK]:                  ./40_CheckConstraint/translate.md
 [ALTER TABLE]:            ./41_AlterTable/translate.md
+[RENAME COLUMN]:          ./42_RenameColumn/translate.md
