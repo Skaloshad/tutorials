@@ -42,6 +42,7 @@
 [CHECK][CHECK]   
 [ALTER TABLE][ALTER TABLE]   
 [RENAME COLUMN][RENAME COLUMN]   
+[DROP TABLE][DROP TABLE]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -85,3 +86,4 @@
 [CHECK]:                  ./40_CheckConstraint/translate.md
 [ALTER TABLE]:            ./41_AlterTable/translate.md
 [RENAME COLUMN]:          ./42_RenameColumn/translate.md
+[DROP TABLE]:             ./43_DropTable/translate.md
