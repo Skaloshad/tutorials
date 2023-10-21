@@ -60,7 +60,7 @@ Identifying numerators and denominators 3/4
 
 ### Representing 1 as a fraction
 
-![](README.m/Representings1AsAFraction.png)
+![](README.m/Representings1AsAFraction.jpg)
 
 ### Whole numbers as fraction
 
