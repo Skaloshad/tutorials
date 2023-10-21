@@ -872,10 +872,10 @@
     </DeviceInfo>
     <Common>
       <ScreenMapping id="2">
-        <SX>1843</SX>
-        <SY>84</SY>
-        <SW>717</SW>
-        <SH>978</SH>
+        <SX>1699</SX>
+        <SY>0</SY>
+        <SW>861</SW>
+        <SH>1390</SH>
       </ScreenMapping>
       <TabletPannel Orientation="1">
         <TX>0</TX>
