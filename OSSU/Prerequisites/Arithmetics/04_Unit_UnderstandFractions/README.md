@@ -72,3 +72,24 @@ Identifying numerators and denominators 3/4
 
 ## Lesson 5: Equivalent fractions
 
+### Equivalent fractions with visuals
+
+![](./README.m/EquivalentFractonsWithVisuals.jpg)
+
+### Equivalent fractions models
+
+![](./README.m/Equivalent_Fractions_models.png)
+
+### Equivalent fraction models
+
+### Creating equivalent fractions
+
+![](./README.m/Creating_Equivalent_Fractions.png)
+
+### Equivalent fractions on the number line
+
+### Equivalent fractions
+
+## Quiz 3
+
+## Unit test
