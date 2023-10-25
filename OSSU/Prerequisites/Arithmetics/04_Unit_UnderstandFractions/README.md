@@ -65,3 +65,10 @@ Identifying numerators and denominators 3/4
 ### Whole numbers as fraction
 
 ![](README.m/WholeNumbersAsFractions.png)
+
+### Writing whole numbers as fractions
+
+### Write whole numbers as fractions
+
+## Lesson 5: Equivalent fractions
+
