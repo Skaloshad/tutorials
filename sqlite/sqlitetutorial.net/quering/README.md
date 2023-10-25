@@ -44,6 +44,7 @@
 [RENAME COLUMN][RENAME COLUMN]   
 [DROP TABLE][DROP TABLE]   
 [GENERATED CULUMNS][GENERATED CULUMNS]   
+[VACUUM][VACUUM]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -89,3 +90,4 @@
 [RENAME COLUMN]:          ./42_RenameColumn/translate.md
 [DROP TABLE]:             ./43_DropTable/translate.md
 [GENERATED CULUMNS]:      ./44_GeneratedColumns/translate.md
+[VACUUM]:                 ./45_Vacuum/translate.md
