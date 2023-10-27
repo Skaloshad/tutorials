@@ -46,6 +46,7 @@
 [GENERATED CULUMNS][GENERATED CULUMNS]   
 [VACUUM][VACUUM]   
 [SHOW TABLES][SHOW TABLES]   
+[DESCRIBE TABLE][DESCRIBE TABLE]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -93,3 +94,4 @@
 [GENERATED CULUMNS]:      ./44_GeneratedColumns/translate.md
 [VACUUM]:                 ./45_Vacuum/translate.md
 [SHOW TABLES]:            ./46_ShowTables/translate.md
+[DESCRIBE TABLE]:         ./47_DescribeTable/translate.md
