@@ -1,5 +1,7 @@
 # Present Simple
 
+## Control
+
 `I`, `We`, `You`, `They` + `verb`
 
 - У меня есть семья - I have a family
@@ -69,7 +71,7 @@
 - Я вижу ее (компании) успех - I see its success
 - Я вижу ее (девушки) успех - I see her success
 
-## 5.1
+## 5_1
 
 - **Я хочу это** - I want it *(**Ошибка**: не w`o`nt a w`a`nt)*
 - **У него есть доллары** - He has dollars
@@ -147,7 +149,7 @@
 - **У меня есть идея** - I have an idea
 - **Она пытается понять это** - She tries to understand it
 
-## 5.2
+## 5_2
 
 - **Мой босс читает все документы** - My boss reads all the documents
 - **Он пытается найти работу** - He tries to find a job
@@ -237,7 +239,7 @@
 - **Мой босс обычно проверяет всю информацию** - My boss usually checks all the information
 - **Я люблю тебя** - I love you
 
-## 5.3
+## 5_3
 
 - **У меня есть семья** - I have a family
 - **Я работаю здесь** - I work here
