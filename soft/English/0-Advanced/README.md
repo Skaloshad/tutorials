@@ -29,6 +29,7 @@
 | [07 - Present Simple - lesson][07_l]                  | [Video][07_l_video]                   |
 | [07 - Present Simple - practice][07_p]                | [Video][07_p_video]                   |
 | [08 - Present Simple - Negative Form - lesson][08_l]  | [Video][08_l_video]                   |
+| [08 - Present Simple - Negative Form - practice][08_p]| [Video][08_p_video]                   |
 
 [01_l]: ./Present_Simple/01_Positive_Form/01_Lesson/README.md#lesson
 [01_l_video]: https://www.youtube.com/watch?v=Hp9wUEDasY4&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=1&pp=iAQB
@@ -64,3 +65,5 @@
 [07_p_video]: https://www.youtube.com/watch?v=b34X_3Nb-cE&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=16&pp=iAQB
 [08_l]: ./Present_Simple/08_Negative_Form/08_Lesson/README.md#lesson
 [08_l_video]: https://www.youtube.com/watch?v=8O2JICbDthQ&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=17
+[08_p]: ./Present_Simple/08_Negative_Form/08_Lesson/README.md#practice
+[08_p_video]: https://www.youtube.com/watch?v=-bdj0TgQCp4&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=18
