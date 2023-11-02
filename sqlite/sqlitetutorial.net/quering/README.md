@@ -47,6 +47,8 @@
 [VACUUM][VACUUM]   
 [SHOW TABLES][SHOW TABLES]   
 [DESCRIBE TABLE][DESCRIBE TABLE]   
+[DUMP COMMAND][DUMP COMMAND]   
+[IMPORT CSV][IMPORT CSV]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -95,3 +97,5 @@
 [VACUUM]:                 ./45_Vacuum/translate.md
 [SHOW TABLES]:            ./46_ShowTables/translate.md
 [DESCRIBE TABLE]:         ./47_DescribeTable/translate.md
+[DUMP COMMAND]:           ./48_DumpCommand/translate.md
+[IMPORT CSV]:             ./49_ImportCSV/translate.md
