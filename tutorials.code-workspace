@@ -1,9 +1,12 @@
 {
 	"folders": [
-		{
-			"path": "."
-		}
-	],
+    {
+      "path": "."
+    },
+    {
+      "path": "../google-calendar-image-keyword"
+    }
+  ],
   "settings": {
     "files.exclude": {
       "**/.classpath": true,
