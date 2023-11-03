@@ -49,6 +49,7 @@
 [DESCRIBE TABLE][DESCRIBE TABLE]   
 [DUMP COMMAND][DUMP COMMAND]   
 [IMPORT CSV][IMPORT CSV]   
+[EXPORT CSV][EXPORT CSV]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -99,3 +100,4 @@
 [DESCRIBE TABLE]:         ./47_DescribeTable/translate.md
 [DUMP COMMAND]:           ./48_DumpCommand/translate.md
 [IMPORT CSV]:             ./49_ImportCSV/translate.md
+[EXPORT CSV]:             ./50_ExportCSV/translate.md
