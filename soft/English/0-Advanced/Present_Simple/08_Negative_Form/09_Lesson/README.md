@@ -58,7 +58,7 @@
 
 > `Him` - Его
 
-- My friend and I don't call them - Мы с моим другом не звоним им
+- **My friend and I don't call them** - Мы с моим другом не звоним им
 
 > `My friend and I` - Мы с моим другом
 
