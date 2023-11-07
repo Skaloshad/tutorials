@@ -4,7 +4,7 @@
 
 - **This thing doesn't interest me** - Эта вещь не интересует меня
 
-> `This thing` подразумевеется как `It`, поэтому пишется `doesn't`
+> `This thing` подразумевается как `It`, поэтому пишется `doesn't`
 
 > `Interest` - Интересует
 
@@ -64,9 +64,9 @@
 
 > `Them` - Им
 
-- **Our teather doesn't belive us** - Наш учитель не верит нам
+- **Our teather doesn't believe us** - Наш учитель не верит нам
 
-> `Belive` - Верить
+> `Believe` - Верить
 
 > `Us` - Нам
 
@@ -83,3 +83,58 @@
 - **I want to make you happy** - Я хочу зделать вас счастливыми
 
 ## Practice
+
+- **То предложение не кажется странным** - That offer doesn't seem strange
+- **Его босс не говорит свободно по-Английски** - His boss doesn't speak English fluently
+- **Мои родители не обсуждают это** - My parents don't discuss it
+- **Эти вещи не привлекают меня** - These things don't attract me
+
+> Ошибка: Не `This` а `These` - Эти
+
+- **Те вещи не кажутся странными** - Those things don't seem strange
+- **Его сын не хочет быть доктором** - His son doesn't want to become a doctor
+- **Наш учитель не верит нам** - Our teacher doesn't believe us
+
+> Ошибка: Не `Belive` а `Believe` - Верить
+
+- **Мой партнер не знает его** - My partner doesn't know him
+- **Моему другу не нравится эта идея** - My friend doesn't like this idea
+- **Она думает деньги не делают людей счастливыми** - She thinks money doesn't make people happy
+
+---------------------------------------
+
+- **Этот человек не пытается изменить свою жизнь** - This person doesn't try to change his life
+- **Мой босс не видит её** - My boss doesn't see her
+- **Эта вещь не привлекают меня** - This thing doesn't attract me
+- **Мои друзья не рекомендуют этот отель** - My fiends don't recommend this hotel
+- **Моя сестра не знает этого человека** - My sister doesn't know this person
+- **Мой брат не хочет думать о своем будущем** - My brother doesn't want to think about his future
+- **Мы с моим дргом не звоним им** - My friend and I don't call them
+- **Мой друг не думает так** - My friend doesn't think so
+- **Мой друг не думает также** - My friend doesn't think the same
+
+---------------------------------------
+
+- **Те уроки не кажутся полезными** - Those lessons don't seem useful
+- **Эти уроки кажутся очень полезными** - These lessons seem very useful
+- **Моя сестра не хочет делать это позже** - My sister doesn't want to do it later
+- **Она хочет зделать это прямо сейчас** - She wants to do it right now
+- **Эта вещь не интересует меня** - This thing doesn't interest me
+- **Её (компании) прибыль не кажется большой** - Its profit doesn't seem big
+- **Мой друг не пытается сделать это** - My friend doesn't try to do it
+- **Их компания (фирма) не пытается делать это** - Their company doesn't try to do it
+
+> Ошибка: Не `They` а `Their` - Их
+
+- **Та вещь не кажется интересной** - That thing goesn't seem interesting
+- **Моя сестра не хочет учится там** - My sister doesn't want to study there
+- **Тот метод не работает** - That method doesn't work
+- **Этот метод реально помогает** - This method really helps
+
+---------------------------------------
+
+- **Их родители не чувствуют себя счастливыми** - Their parents don't feel happy
+- **Он думает деньги не приносят людям счастья** - He thinks money doesn't bring people happiness
+- **Это предложение не кажется таким интересным** - This offer doesn't seem so interesting
+- **Наша компания не хочет это** - Our company doesn't want it
+- **Мой друг не согласен со мной** - My friend doesn't agree with me
