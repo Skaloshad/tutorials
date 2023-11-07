@@ -217,3 +217,96 @@
 
 ### Multiplying 10s
 
+```
+40 * 70 = 
+4 * 10 * 7 * 10 = - reorder
+4 * 7 * 10 * 10 =
+4 * 7 * 100 =
+28 * 100 =
+2800
+```
+
+```
+90 * 30 =
+9 * 3 * 10 * 10 =
+27 * 100 =
+2700
+```
+
+### Multiplying 10s
+
+## Quiz 2
+
+```
+7 * 414
+    2
+   414
+ *   7
+  2898  
+```
+
+```
+9 * 8,302
+
+   2  1
+   8,302
+ *     9
+   74718
+```
+
+## Lesson 5: Multiply 2-digit numbers with area models
+
+### Multiplying with area model: 16 x 27
+
+```
+16 * 27 =
+(10 + 6) * (20 + 7) = 
+(10 * 20) + (10 * 7) + (20 * 6) + (6 * 7) = 
+200 + 70 + 120 + 42 =
+432
+
+           10        6
+    ---------------------
+    |             |     | 
+    |             |     |
+    |             |     |
+    |             |     |
+ 20 |     200     | 120 |
+    |             |     |
+    |             |     |
+    |             |     |
+    |             |     |
+    |             |     |
+    ----------------------
+    |             |     |
+  7 |      70     |  42 |
+    |             |     |
+    |             |     |
+    ----------------------
+```
+
+### Multiplying with area model: 78 x 65
+
+```
+78 * 65
+
+    78
+  * 65
+-------
+  11
+    40  = 5 * 8
+   350  = 5 * 70
+   480  = 60 * 8
+  4200  = 70 * 60
+-------
+  5070
+```
+
+### Multiply 2-digit numbers with area models
+
+## Lesson 6: Multiply 2-digit numbers with partial products
+
+### Multiplying two 2-digit numbers using partial products
+
+### Multiply with partial products (2-digit numbers)
+
