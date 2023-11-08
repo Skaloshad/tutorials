@@ -310,3 +310,18 @@
 
 ### Multiply with partial products (2-digit numbers)
 
+### Multiply 2-digit numbers
+
+![](./Multiply_2-digit_numbers.png)
+
+### Multiplying 2-digit numbers
+
+![](Inkodo-1182023_34805_PM.png)
+
+## Quiz 3
+
+![](./Inkodo-1182023_65425_PM.svg)
+
+## Unit test
+
+![](./Inkodo-1182023_70157_PM.svg)
