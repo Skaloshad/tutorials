@@ -7,6 +7,7 @@
 - [Unit 5: Place value through 1,000,000][Unit_5]
 - [Unit 6: Add and subtract through 1,000,000][Unit_6]
 - [Unit 7: Multiply 1- and 2-digit numbers][Unit_7]
+- [Unit 8: Divide with remainders][Unit_8]
 
 
 [Unit_1]: ./01_Unit_IntroToMultiplication/README.md
@@ -16,3 +17,4 @@
 [Unit_5]: ./05_Unit_PlaceValueThrough1000000/README.md
 [Unit_6]: ./06_Unit_AddAndSubThrough1000000/README.md
 [Unit_7]: ./07_Unit_Multiply1And2DigitNumbers/README.md
+[Unit_8]: ./08_Unit_DivideWithRemainders/README.md
