@@ -33,6 +33,7 @@
 | [09 - Present Simple - Negative Form - lesson][09_l]  | [Video][09_l_video]                   |
 | [09 - Present Simple - Negative Form - practice][09_p]| [Video][09_p_video]                   |
 | [10 - Present Simple - Negative Form - lesson][10_l]  | [Video][10_l_video]                   |
+| [10 - Present Simple - Negative Form - practice][10_p]| [Video][10_p_video]                   |
 
 [01_l]: ./Present_Simple/01_Positive_Form/01_Lesson/README.md#lesson
 [01_l_video]: https://www.youtube.com/watch?v=Hp9wUEDasY4&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=1&pp=iAQB
@@ -76,3 +77,5 @@
 [09_p_video]: https://www.youtube.com/watch?v=eIn2z55aSXg&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=20
 [10_l]: ./Present_Simple/08_Negative_Form/10_Lesson/README.md#lesson
 [10_l_video]: https://www.youtube.com/watch?v=RQL8lICKsiA&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=21&pp=iAQB
+[10_p]: ./Present_Simple/08_Negative_Form/10_Lesson/README.md#practice
+[10_p_video]: https://www.youtube.com/watch?v=UcVJ7O10Ii8&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=23
