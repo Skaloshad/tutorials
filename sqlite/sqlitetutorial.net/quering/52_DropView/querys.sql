@@ -18,3 +18,7 @@ AS
     invoice_items USING (
       invoiceId
     );
+
+DROP VIEW IF EXISTS v_xyz;
+
+DROP VIEW v_xyz;

@@ -52,6 +52,7 @@
 [EXPORT CSV][EXPORT CSV]   
 [CREATE VIEW][CREATE VIEW]   
 [DROP VIEW][DROP VIEW]   
+[INDEX][INDEX]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -105,4 +106,4 @@
 [EXPORT CSV]:             ./50_ExportCSV/translate.md
 [CREATE VIEW]:            ./51_CreateView/translate.md
 [DROP VIEW]:              ./52_DropView/translate.md
-
+[INDEX]:                  ./53_Index/translate.md
