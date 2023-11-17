@@ -20,3 +20,39 @@ VALUES('Johny','Doe','john.doe@sqlitetutorial.net');
 INSERT INTO contacts (firstName, lastName, email)
 VALUES('David','Brown','david.brown@sqlitetutorial.net'),
       ('Lisa','Smith','lisa.smith@sqlitetutorial.net');
+
+SELECT
+  firstName,
+  lastName,
+  email
+FROM
+  contacts
+WHERE
+  email = 'lisa.smith@sqlitetutorial.net';
+
+EXPLAIN QUERY PLAN
+SELECT
+  firstName,
+  lastName,
+  email
+FROM
+  contacts
+WHERE
+  email = 'lisa.smith@sqlitetutorial.net';
+
+CREATE INDEX idx_contacts_name
+ON contacts ( firstName, lastName );
+
+PRAGMA index_list('contacts');
+
+PRAGMA index_info('idx_contacts_name');
+
+SELECT
+  type,
+  name,
+  tbl_name,
+  sql
+FROM
+  sqlite_master
+WHERE
+  type = 'index';
