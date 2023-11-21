@@ -54,6 +54,7 @@
 [DROP VIEW][DROP VIEW]   
 [INDEX][INDEX]   
 [INDEX FOR EXPRESSIONS][INDEX FOR EXPRESSIONS]   
+[TRIGGER][TRIGGER]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -108,4 +109,5 @@
 [CREATE VIEW]:            ./51_CreateView/translate.md
 [DROP VIEW]:              ./52_DropView/translate.md
 [INDEX]:                  ./53_Index/translate.md
-[INDEX FOR EXPRESSIONS]:   ./54_IndexForExpressions/translate.md
+[INDEX FOR EXPRESSIONS]:  ./54_IndexForExpressions/translate.md
+[TRIGGER]:                ./55_Trigger/translate.md
