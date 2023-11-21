@@ -34,6 +34,8 @@
 | [09 - Present Simple - Negative Form - practice][09_p]| [Video][09_p_video]                   |
 | [10 - Present Simple - Negative Form - lesson][10_l]  | [Video][10_l_video]                   |
 | [10 - Present Simple - Negative Form - practice][10_p]| [Video][10_p_video]                   |
+| [11 - Present Simple - Negative Form - lesson][11_l]  | [Video][11_l_video]                   |
+| [12 - Present Simple - Negative Form - lesson][12_l]  | [Video][12_l_video]                   |
 
 [01_l]: ./Present_Simple/01_Positive_Form/01_Lesson/README.md#lesson
 [01_l_video]: https://www.youtube.com/watch?v=Hp9wUEDasY4&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=1&pp=iAQB
@@ -79,3 +81,7 @@
 [10_l_video]: https://www.youtube.com/watch?v=RQL8lICKsiA&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=21&pp=iAQB
 [10_p]: ./Present_Simple/08_Negative_Form/10_Lesson/README.md#practice
 [10_p_video]: https://www.youtube.com/watch?v=UcVJ7O10Ii8&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=23
+[11_l]: ./Present_Simple/08_Negative_Form/11_Lesson/README.md#lesson
+[11_l_video]: https://www.youtube.com/watch?v=IsKSfWnkqiE&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=23&pp=iAQB
+[12_l]: ./Present_Simple/08_Negative_Form/12_Lesson/README.md#lesson
+[12_l_video]: https://www.youtube.com/watch?v=RT7Iy7OZcos&list=PLD6SPjEPomaustGSgYNsn3V62BTQeH85X&index=24&pp=iAQB
