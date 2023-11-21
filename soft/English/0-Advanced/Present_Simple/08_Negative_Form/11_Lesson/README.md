@@ -95,11 +95,6 @@
 > `Explain` - Объяснять
 
 - **His girlfriend doesn't feel happy** - Его девушка не чувствует себя счастливой
-
-> `Girlfriend` - Девушка
-
 - **Her boyfriend doesn't know about it problem** - Её парень не знает об этой проблеме
-
-> `Boyfriend` - Парень
 
 ## Practice
