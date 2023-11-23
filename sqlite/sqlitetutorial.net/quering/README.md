@@ -56,6 +56,7 @@
 [INDEX FOR EXPRESSIONS][INDEX FOR EXPRESSIONS]   
 [TRIGGER][TRIGGER]   
 [INSTEAD OF TRIGGERS][INSTEAD OF TRIGGERS]   
+[FUNCTIONS][FUNCTIONS]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -113,3 +114,4 @@
 [INDEX FOR EXPRESSIONS]:  ./54_IndexForExpressions/translate.md
 [TRIGGER]:                ./55_Trigger/translate.md
 [INSTEAD OF TRIGGERS]:    ./56_InsteadOfTrigger/translate.md
+[FUNCTIONS]:              ./57_Functions/translate.md
