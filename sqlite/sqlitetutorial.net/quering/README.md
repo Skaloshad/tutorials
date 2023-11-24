@@ -57,6 +57,7 @@
 [TRIGGER][TRIGGER]   
 [INSTEAD OF TRIGGERS][INSTEAD OF TRIGGERS]   
 [FUNCTIONS][FUNCTIONS]   
+[ABS][ABS]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -115,3 +116,4 @@
 [TRIGGER]:                ./55_Trigger/translate.md
 [INSTEAD OF TRIGGERS]:    ./56_InsteadOfTrigger/translate.md
 [FUNCTIONS]:              ./57_Functions/translate.md
+[ABS]:                    ./58_ABS/translate.md
