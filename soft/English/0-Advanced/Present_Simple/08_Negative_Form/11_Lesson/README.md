@@ -165,3 +165,81 @@
 - **Ты не понимаешь нас** - You don't understand us
 
 ### 11.2
+
+- **Она скучает по тебе** - She misses you
+- **Мне также нравится этот канал** - I also like this channel
+- **Я не хочу говорить это** - I don't want to say it
+- **Мой друг думает так** - My friend thinks so
+- **Этот человек не пытается поменять свою жизнь** - This person doesn't try to change his life
+
+> Ошибка: Не `live` а `life`. `Live` это жить, `Life` это жизнь.
+
+- **Он ходит на работу** - He goes to wark
+- **Эта вещь не привлекает меня** - This thing doesn't attract me
+- **Тебе нужно запомнить это правило** - You need to remember this rule
+- **Мне реально нравится это** - I really like it
+- **Я не знаю** - I don't know
+
+---------------------------------------
+
+- **Я хочу поехать туда** - I want to go there
+- **Из прибыль кажется хорошей** - Their profit seems good
+
+> Ошибка: Не `They` а `Their` - их. Не `seem` а `seems` - Кажутся не `ОНИ`, а кажется `ПРИБЫЛЬ`
+
+- **Мне нравится этот канал тоже** - I like this channel, too
+- **Его девушка поддерживает его** - His girlfriend supports him
+- **Я не хочу обсуждать это** - I don't want to discuss it
+- **Ему нужно изменить свою жизнь** - He needs to change his life
+- **Мой брат не хочет думать о своём будущем** - My brother doesn't want to think about his future
+
+> Ошибка: `want` без `s` на конце, так как при отрицании `s` не ставится
+
+- **Я хочу хорошую машину** - I want a good car
+- **Ему нужно это** - He needs it
+- **Я хотел бы знать больше Английских слов** - I'd like to know more English words
+
+---------------------------------------
+
+- **Он не пытается найти хорошую работу** - He doesn't try to find a good job
+- **Нам нужно решить эту проблему** - We need to solve this problem
+
+> Ошибка: Не `Its`, а `This`. `Its` это как `His` только для среднего рода
+
+- **Я не думаю так** - I don't think so
+- **То предложение не кажется странным** - That offer doesn't seem strange
+- **Мой друг хочет жить за границей** - My friend wants to live abroad
+- **Она преподает Испанский** - She teaches Spanish
+- **Я обычно прихожу на работу рано** - I usually come to work early
+- **Я знаю его** - I know him
+- **Моя сестра не знает этого человека** - My sister doesn't know this person
+- **Все люди делают это** - All people do it
+
+---------------------------------------
+
+- **Я не хочу знать это** - I don't want to know it
+- **Мне нужно проверить это** - I need to check it
+- **Мой босс читает все документы** - My boss reads all the documents
+- **Ей нравится это** - She likes it
+- **Она хочет сделать это** - She wants to do it
+- **Мне нравится это** - I like it
+- **Твоей маме нужно работать меньше** - Your mother needs to work less
+- **Я хочу сделать это** - I want to do it
+- **Я хочу поблагодарить тебя** - I want to thank you
+- **Я вижу ему это реально нравиться** - I see he really likes it
+
+---------------------------------------
+
+- **Я думаю тебе нужно работать меньше** - I think you need to work less
+- **Она любит его** - She loves him
+- **Он всегда платит за неё** - He always pays for her
+
+> Ошибка: Нужно писать `pays` а не `paies`. Перед `y` нет *согласной*.
+
+- **Моя сестра ходит в школу** - My sister goes to school
+- **Мы с моим друго не звоним им** - My friend and I don't call them
+- **Мне нужно учится усерднее** - I need to study harder
+- **Я хочу быть счастливым** - I want to be happy
+- **Мой друг не верит ему** - My friend doesn't believe him
+- **Он часто ходит в кино** - He often goes to the cinema
+- **Он пытается найти больше времени для Английского** - He tries to find more time for English

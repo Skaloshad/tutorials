@@ -59,6 +59,7 @@
 [FUNCTIONS][FUNCTIONS]   
 [ABS][ABS]   
 [RANDOM][RANDOM]   
+[ROUND][ROUND]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -119,3 +120,4 @@
 [FUNCTIONS]:              ./57_Functions/translate.md
 [ABS]:                    ./58_ABS/translate.md
 [RANDOM]:                 ./59_Random/translate.md
+[ROUND]:                  ./60_Round/translate.md
