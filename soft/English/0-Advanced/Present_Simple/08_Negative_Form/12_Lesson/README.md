@@ -78,3 +78,14 @@
 - **Он пытается найти больше времени для Английского** - He tries to find more time for English
 
 ## Practice
+
+### 12.1
+
+- **Это не мотивирует меня** - It doesn't motivate me
+- **Я знаю это им нравится** - I know they like it
+- **Я хотел бы поехать за границу** - I'd like to go abroad
+- **Они не помогают мне** - They don't help me
+- **Мои друзья не рекомендуют этот отель** - My friends don't recommend this hotel
+- **Мне не нравится это** - I don't like it
+- **Я хочу говорить по-Английски без ошибок** - I want to speak English without mistakes
+- 
