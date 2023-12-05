@@ -61,6 +61,7 @@
 [RANDOM][RANDOM]   
 [ROUND][ROUND]   
 [SQLITE VERSION][SQLITE VERSION]   
+[COALESCE][COALESCE]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -123,3 +124,4 @@
 [RANDOM]:                 ./59_Random/translate.md
 [ROUND]:                  ./60_Round/translate.md
 [SQLITE VERSION]:         ./61_SqliteVersion/translate.md
+[COALESCE]:               ./62_Coalesce/translate.md
