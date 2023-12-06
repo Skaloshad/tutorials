@@ -149,3 +149,74 @@
 - **У него новый дом** - He has a new house
 - **Я не хочу говорить тебе эту вещь** - I don't want to tell you this thing
 - **Мне нужно позвонить ему** - I want to call him
+
+### 12.2
+
+- **Я не хочу сказать тебе об этой проблемме** - I don't want to tell you about this problem
+- **Они не верят ему** - They don't believe him
+- **Она хочет жить в другом месте** - She wants to live in another place
+- **Я не хочу делать это прямо сейчас** - I don't want to do it right now
+- **Я люблю её** - I love her
+- **Я хочу тренироваться более регулярно** - I want to train more regularly
+- **Эти вещи меня вовсе не интересуют** - These things don't interest me at all
+- **Я вижу тебе реально нравится Английский** - I see you really like English
+- **Моему партнеру нужно решить эту проблему** - My partner needs to solve this problem
+- **Я хочу это знать** - I want to know it
+
+---------------------------------------
+
+- **У него есть доллары** - He has dollars
+- **Она думает деньги не делают людей счастливыми** - She thinks money doesn't make people happy
+- **Я не хочу играть в компьютерные игры** - I don't want to play computer games
+- **Я хотел бы выпить чашку чая** - I'd like to drink a cup of tea
+- **Я хочу новый компьютер** - I want a new computer
+- **Я не понимаю этих людей** - I don't understand these people
+- **Её нравится это место** - She likes this place
+- **Я хотел бы стать бизнесменом** - I'd like to become a businessman
+- **У него хорошая машина** - He has a good car
+- **Мне действительно нравится это место** - I really like this place
+
+---------------------------------------
+
+- **Она очень хорошо делает это** - She does it very well
+- **Он думает деньги не приносят людям счастье** - He thinks money doesn't bring people happiness
+- **Ему нужно больше денег** - He needs more money
+- **Мне действительно нравится этот плейлист** - I really like this playlist
+- **Он не хочет делать это позже** - He doesn't want to do it later
+- **Я не хочу пить** - I don't want to drink
+- **Её парень не знает об этой проблеме** - Her boyfriend doesn't know about this problem
+- **Он не хочет читать эти книги** - He doesn't want to read these books
+- **Он хочет читать те книги** - He wants to read those books
+- **Я хочу улучшить свой Английский** - I want to improve my English
+
+---------------------------------------
+
+- **Мне нужно решить ту проблему** - I need to solve that problem
+- **Я хочу это платье** - I want this dress
+- **Мне нужно решить эти проблемы** - I need to solve these problems
+- **Мне нравится этот метод** - I like this method
+- **Она не играет в компьютерные игры** - She doesn't play computer games
+- **Нам нужно заплатить за это** - We need to pay for it
+- **Она хочет увидеть тебя прямо сейчам** - She wants to see you right now
+- **Мне нужно говорить по-Английски правильно** - I need to speak English correctly
+- **Мне нравится этот плейлист** - I like this playlist
+- **Все мои друзья думают так** - All my friends think so
+- **Мне действительно нужно выучить Английский как можно быстрее** - I really need to learn English as soon as possible
+
+> Ошибка: Не `As fast as possible` а `As soon as possible`
+
+---------------------------------------
+
+- **Я знаю её** - I know her
+- **Я хотел бы заказать это** - I'd like to order it
+
+> Ошибка: Не `offer` а `order`
+
+- **Я хочу говорить по-Английски правильно** - I want to speak English correctly
+- **Деньги не привлекают его** - Money doesn't attract him
+- **Я хотел бы очень хорошо знать Английский** - I'd like to know English very well
+- **Я не знаю этого человека** - I don't know this person
+- **Мой партнер не знает его** - My partner doesn't know him
+- **Мне нужно говорить по-Английски вовсе без каких-либо ошибок** - I need to speak English without any mistakes at all
+- **Я хочу новую квартиру** - I want a new flat (apartment)
+- **Те вещи не кажутся странными** - Those things don't seem strange
