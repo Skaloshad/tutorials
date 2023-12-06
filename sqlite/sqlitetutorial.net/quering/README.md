@@ -62,6 +62,7 @@
 [ROUND][ROUND]   
 [SQLITE VERSION][SQLITE VERSION]   
 [COALESCE][COALESCE]   
+[IFNULL][IFNULL]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -125,3 +126,4 @@
 [ROUND]:                  ./60_Round/translate.md
 [SQLITE VERSION]:         ./61_SqliteVersion/translate.md
 [COALESCE]:               ./62_Coalesce/translate.md
+[IFNULL]:                 ./63_IfNull/translate.md
