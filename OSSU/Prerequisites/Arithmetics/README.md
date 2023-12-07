@@ -10,6 +10,7 @@
 - [Unit 8: Divide with remainders][Unit_8]
 - [Unit 9: Add and subtract fraction (like denominators)][Unit_9]
 - [Unit 10: Multiply fractions][Unit_10]
+- [Unit 11: Decimals and place value][Unit_11]
 
 ## CheetSheet
 
@@ -35,5 +36,6 @@
 [Unit_8]:   ./08_Unit_DivideWithRemainders/README.md
 [Unit_9]:   ./09_Unit_AddAndSubtractFraction/README.md
 [Unit_10]:  ./10_Unit_MultiplyFractions/README.md
+[Unit_11]:  ./11_Unit_DecimalsAndPlaceValue/README.md
 
 [multiplication table]: ./Tables/README.md
