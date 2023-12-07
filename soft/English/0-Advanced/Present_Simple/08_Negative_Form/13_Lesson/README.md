@@ -103,3 +103,72 @@
 - **Говорить по-Английски свободно** - Speak English fluently
 
 ## Practice
+
+### 13.1
+
+- **У него так много проблем** - He has so many problems
+- **Она часто ходить в парк** - She often goes to the park
+- **Ей нужно пойти домой** - She needs to go home
+- **У нее есть интересные идеи** - She has interesting ideas
+- **Эта вещи вовсе не интересует меня** - This thing doesn't interest me at all
+- **Они не верят нам** - They don't believe us
+- **Я хотел бы стать менеджером** - I'd like to become a manager
+- **Я хотел бы обсудить это с тобой** - I'd like to discuss it with you
+- **Они все знают** - They know everything
+- **Его девушка все знает** - His girlfriend knows everything
+
+---------------------------------------
+
+- **Я не заказываю еду там** - I don't order food there
+- **Мне нужно сделать это** - I need to do it
+- **Это происходит вермя от времени** - It happens from time to time
+- **Моя сестра не хочеть делать это позже** - My sister doesn't want to do it later
+- **Она хочет сделать это прямо сейчас** - She wants to do it right now
+- **Я хотел бы иметь больше практики** - I'd like to have more practice
+- **Я думаю тебе надо работать больше** - I think you need to work more
+- **Мне реально нравится этот канал** - I really like this channel
+- **Моему другу нужен твой совет прямо сейчас** - My friend needs your advice right now
+- **Я люблю тебя** - I love you
+- **Мой друг не согласен со мной** - My friend doesn't agree with me
+
+---------------------------------------
+
+- **Моему другу не нравится эта идея** - My friend doesn't like this idea
+- **Мне реально нужно это знать** - I really need to know it
+- **Они иногда играют в компьютерные игры** - They sometimes play computer games
+- **Я не верю тебе** - I don't believe you
+- **Его предложение кажется таким хорошим** - His offer seems so good
+- **Ты всегда говоришь это** - You always say it
+- **Им нужно это** - They need it
+- **Я не верю им** - I don't believe them
+- **Она всегда делает это вовремя** - She always does it on time
+- **Я не хочу думать об этом** - I don't want to think about it
+
+---------------------------------------
+
+- **Мне нужно это** - I need it
+- **Мой друг не думает так** - My friend doesn't think so
+- **Это не помогает мне** - It doesn't help me
+- **Тот метод не работает** - That method doesn't work
+- **Этот метод реально работает** - This method really works
+- **Она не говрит мне эти вещи** - She doesn't tell me these things
+- **Я обычно прихожу домой рано** - I usually come home early
+- **Мой друг не пытается делать это** - My friend doesn't try to do it
+- **Ты знаешь это лучше** - You know it better
+- **Они знают этого человека** - They know this person
+- **Я не хочу жить в том городе** - I don't want to live in that city
+
+---------------------------------------
+
+- **Все твои идеи кажутся интересными** - All your ideas seem interesting
+- **Я хочу поехать в другое место** - I want to go to another place
+- **Нам нужно больше информации** - We need more infromation
+- **Мне нравится эта идея** - I like this idea
+- **Мне нравятся все твои идеи** - I like all your ideas
+- **Та вещь вовсе не интересует меня** - That thing doesn't interest me at all
+- **Мои родители хотят жить в другом месте** - My parents want to live in another place
+- **Мне нужны деньги** - I need money
+- **Мне реально нужен Английский** - I really need English
+- **Его отцу нужны деньги** - His father needs money
+
+### 13.2
