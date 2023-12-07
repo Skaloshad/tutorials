@@ -63,6 +63,7 @@
 [SQLITE VERSION][SQLITE VERSION]   
 [COALESCE][COALESCE]   
 [IFNULL][IFNULL]   
+[IIF][IIF]    
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -127,3 +128,4 @@
 [SQLITE VERSION]:         ./61_SqliteVersion/translate.md
 [COALESCE]:               ./62_Coalesce/translate.md
 [IFNULL]:                 ./63_IfNull/translate.md
+[IIF]:                    ./64_IIf/translate.md
