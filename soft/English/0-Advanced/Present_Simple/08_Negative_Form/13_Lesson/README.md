@@ -172,3 +172,76 @@
 - **Его отцу нужны деньги** - His father needs money
 
 ### 13.2
+
+- **Мне нравится этот канал** - I like this channel
+- **Я не хочу учится там** - I don't want to study there
+- **У нас нет каких-либо вопросов** - We don't have any questions
+- **Её парень поддерживает ее** - Her boyfriend supports her
+- **Мои друзья не верят ей** - My friends don't believe her
+- **У моего партнера есть интересное предложение** - My partner has an interesting offer
+
+> Ошбика: Необходим артикль `an`, так как `offer` исчисляемое в ед. числе
+
+- **Ты не пытаешься выучить Английский** - You don't try to learn English
+- **У него нет машины** - He doesn't have a car
+- **Мне нужно исправить эту ошибку** - I need to correct this mistake
+- **Мне нужна эта информация снова** - I need this information again
+
+---------------------------------------
+
+- **Мне нужно выучить Английский** - I need to learn English
+
+> `Study` - Учить в Школе или Заведении. `Learn` - Самостоятельно, онлайн.
+
+- **Она ходит в школу** - She goes to school
+- **Мне нужно увидеть её** - I need to see her
+- **Мы поддерживаем тебя** - We support you
+- **Моя сестра не хочет учиться там** - My sister doesn't want to study there
+- **Я хочу знать Английский лучше** - I want to know English better
+- **Те уроки не кажутся полезными** - Those lessons don't seem useful
+- **Эти уроки кажутся очень полезными** - These lessons seem very useful
+
+> Ошибка: Не `So` а `Very`. `So` - Так, `Very` - Очень.
+
+- **Мне нужно говорить по-Английски без ошибок** - I need to speak English without mistakes
+- **Я действительно хочу это** - I really want it
+
+---------------------------------------
+
+- **Мы часто отдыхаем там** - We often relax there (have a rest)
+- **Мне нравится это видео** - I like this video
+- **Моему другу нажна твоя помошь** - My friend needs your help
+- **Этот урок помогает мне** - This lesson halps me
+- **Я хотел бы зделать это** - I'd like to do it
+- **Её Английский кажется таким хорошим** - Her English seems so good
+- **Его дувушка не чувствует себя счастливой** - His girlfriend goesn't feel happy
+- **Их родители чувствуют себя такими счастливыми** - Their parents feel so happy
+- **Я хотел бы чашку кофе** - I'd like a cup of coffee
+- **Мой босс не видит её** - My boss doesn't see her
+- **Я хочу купить новую квартиру** - I want to buy a new flat (apartment)
+
+---------------------------------------
+
+- **Он не знает это** - He doesn't know it
+- **Я хотел бы чашку чая** - I'd like a cup of tea
+- **Мне нужно говорить по-Английски свободно** - I need to speak English fluently
+- **Я хочу иметь хорошую машину** - I want to have a good car
+- **Я хотел бы стать бизнесменом** - I'd like to become a businessman
+- **Я хочу говорить по-Английски свободно и правильно** - I want to speak English correctly and fluently
+- **Я хочу иметь хорошую работу** - I want to have a good job
+- **Это предложение кажется таким странным** - This offer seems so strange
+- **Она не хочет обсуждать это** - She doesn't want to discuss it
+- **Её нужно это** - She needs it
+
+---------------------------------------
+
+- **Мне реально нужны твои уроки** - I really need your lessons
+- **Мне нужно позвонить им** - I need to call them
+- **Моему другу нравится этот отелль** - My friend likes this hotel
+- **Я со своей девушкой часто ходим в парк** - My girlfriend and I often go to the park
+- **Мой друг не думает так** - My friend doesn't think so
+- **Она не чувствует себя счастливой** - She doesn't feel happy
+- **Я не согласен с тобой** - I don't agree with you
+- **У него есть идея** - He has an idea
+- **Его босс не гоорит по-Английски свободно** - His boss doesn't speak English fluently
+- **Мне нужен твой совет** - I need your advice
