@@ -64,7 +64,9 @@
 [COALESCE][COALESCE]   
 [IFNULL][IFNULL]   
 [IIF][IIF]    
+[NULLIF][NULLIF]   
 [Aggregate Functions][Aggregate Functions]    
+[AVG]   
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -130,4 +132,4 @@
 [COALESCE]:               ./62_Coalesce/translate.md
 [IFNULL]:                 ./63_IfNull/translate.md
 [IIF]:                    ./64_IIf/translate.md
-[Aggregate Functions]:    ./65_NullIf/translate.md
+[NULLIF]:                 ./65_NullIf/translate.md
