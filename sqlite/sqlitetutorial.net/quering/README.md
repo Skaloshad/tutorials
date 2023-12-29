@@ -66,7 +66,8 @@
 [IIF][IIF]    
 [NULLIF][NULLIF]   
 [Aggregate Functions][Aggregate Functions]    
-[AVG]   
+[AVG][AVG]   
+[COUNT][COUNT]    
 
 [SELECT]:                 ./01_Select/translate.md
 [ORDER]:                  ./02_OrderBy/translate.md
@@ -133,3 +134,4 @@
 [IFNULL]:                 ./63_IfNull/translate.md
 [IIF]:                    ./64_IIf/translate.md
 [NULLIF]:                 ./65_NullIf/translate.md
+[Aggregate Functions]:    ./66_AggregateFuntions/translate.md
