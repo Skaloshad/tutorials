@@ -84,4 +84,60 @@
 
 - **Do we have enough knowledge?** - У нас достаточно знаний?
 
+> `Knowledge` - Знания
+
 ## Practice
+
+- **Ты всё помнишь?** - Do you remember everything?
+- **Они поддерживают нас?** - Do they support us?
+- **Тебе нравится это?** - Do you like it?
+- **Ты хочешь учиться лучше?** - Do you want to study better?
+- **Ты часто пользуешься интернетом?** - Do you often use the Internet?
+- **Ты часто ходишь в зал?** - Do you often go to the gym?
+- **Ты поддерживаешь его?** - Do you support him?
+- **Ты ходишь в школу?** - Do you go to school?
+- **У нас достаточно знаний?** - Do we have enough knowledge?
+- **Ты хочешь знать свои ошибки?** - Do you want to know your mistakes?
+- **Мы показывает хорошие результаты?** - Do we show good results?
+
+---------------------------------------
+
+- **Тебе нужно решить эту проблему прямо сейчас?** - Do you need to solve this problem right now?
+- **У тебя достаточно денег?** - Do you have enough money?
+- **У нас достаточно практики?** - Do we have enough practice?
+- **Ты поддерживаешь его?** - Do you support him?
+- **Тебе нравится это платье?** - Do you like this dress?
+- **Они согласны с нами?** - Do they agree with us?
+- **Ты часто ходишь туда?** - Do you often go there?
+- **Ты поддерживаешь меня?** - Do you support me?
+- **Тебе нравится то предложение?** - Do you like that offer?
+- **Ты часто слушаешь музыку?** - Do you often listen to misic?
+- **Ты ходишь на работу?** - Do you go to work?
+- **Ты согласен с ним?** - Do you agree with him?
+
+---------------------------------------
+
+- **Ты пытаешься улучшить этот результат?** - Do you try to improve this result?
+- **У тебя есть свободное время?** - Do you have free time?
+- **Ты понимаешь меня?** - Do you understand me?
+- **Ты поддерживаешь это решение?** - Do you suppurt this decision?
+- **Ты работаешь над своими ошибками?** - Do you work on your mistakes?
+- **Тебе действительно нравится эта идея?** - Do you really like this idea?
+- **Тебе нужно больше денег?** - Do you need more money?
+- **Ты согласен с ними?** - Do you agree with them?
+- **Я делю ошибки?** - Do I make mistakes?
+- **Ты помнишь это?** - Do you remember it?
+- **Ты согласен с ней?** - Do you agree with her?
+
+---------------------------------------
+
+- **Ты знаешь об этой проблеме?** - Do you know about this problem?
+- **Ты часто делаешь это?** - Do you often do it?
+- **Тебе нужна помошь?** - Do you need help?
+- **У меня достаточно денег?** - Do I have enough money?
+- **Ты согласен со мной?** - Do you agree with me?
+- **Ты часто посещаешь это место?** - Do you often visit this place?
+- **Тебе нужен мой совет?** - Do you need my advice?
+- **Они поддерживают это решение?** - Do they support this decision?
+- **Они видят свои ошибки?** - Do they see their mistakes?
+- **Ты часто звонишь ему?** - Do you often call him?
