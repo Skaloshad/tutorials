@@ -47,11 +47,11 @@
 
 ---------------------------------------
 
-- **Do these students show exellent results?** - Эти студенты показывают отличные результаты?
+- **Do these students show exсellent results?** - Эти студенты показывают отличные результаты?
 
 > `Show` - Показывать
 
-> `Exellent` - Отлично
+> `Excellent` - Отлично
 
 - **Does this student show brilliant results?** - Этот студент показывает блестящие результаты?
 
