@@ -4,7 +4,7 @@
 
 - **You know it** - Ты знаешь это
 
-> `Do` + `I`, `We`, `You`, `They` + `verb`?
+> `Do` + [`I` | `We` | `You` | `They`] + `verb`?
 
 - **Do you know it?** - Ты знаешь это?
 - **Do I make mistakes?** - Я делаю ошибки?
